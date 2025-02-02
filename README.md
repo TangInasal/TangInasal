@@ -12,3 +12,9 @@
 <h2 align="center"><a>I use Arch btw </a> 
   <img alt="Arch Linux" title="Arch Linux" height="22" width="22" src="https://cdn.simpleicons.org/archlinux">
 </h2>
+
+<!-- <h4 align="center">🌐 portfolio</h3>
+-->
+<p align="center">
+  <a href="https://diox-portfolio.vercel.app/"> 🌐 PORTFOLIO 🌐 </a>
+</p>
