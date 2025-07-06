@@ -5,8 +5,8 @@
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/github/white">
       <img alt="GitHub" title="GitHub" height="48" width="48" src="https://cdn.simpleicons.org/github"></picture></a>
-  <a href="[https://www.linkedin.com/in/jr-diox](https://www.linkedin.com/in/d1ox/)">
-    <img alt="LinkedIn" title="LinkedIn" height="48" width="48" src="[https://cdn.simpleicons.org/linkedin/0A66C2](https://cdn.simpleicons.org/linkedin/0A66C2)"></a>
+  <a href="https://www.linkedin.com/in/d1ox/">
+    <img alt="LinkedIn" title="LinkedIn" height="48" width="48" src="https://static.licdn.com/aero-v1/sc/h/5bukxbhy9xsil5mb7c2wulfbx"></a>
 </p>
 
 <h2 align="center"><a>I use Arch btw </a> 
