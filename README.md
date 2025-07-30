@@ -14,5 +14,5 @@
 </h2>
 
 <p align="center">
-  <a href="https://diox-portfolio.vercel.app/"> 🌐 PORTFOLIO 🌐 </a>
+  <a href="https://jrdioca.com/"> 🌐 PORTFOLIO 🌐 </a>
 </p>
